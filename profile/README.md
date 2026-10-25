@@ -1,10 +1,11 @@
 # Crowned Hood Software
 
-Crowned Hood Software is Roberto's software development project and GitHub organization. We build experimental software — starting with MOOD, a Markdown-to-code compiler that uses an LLM (Ollama) to generate code from Markdown descriptions, guided by object-oriented architecture, with the aim of cross-compiling to any language.
+Crowned Hood Software is Roberto's software development project and GitHub organization. In general, Crowned Hood works on software for software development services, music production, and games.
 
-## Projects
+## What we build
 
-- **MOOD** — [Crowned-Hood/mood](https://github.com/Crowned-Hood/mood)
+- **MOOD** — an experimental Markdown-to-code compiler. It uses an LLM (Ollama) to generate code from Markdown descriptions, guided by object-oriented architecture, with the aim of cross-compiling to any language.
+  - Repository: [Crowned-Hood/mood](https://github.com/Crowned-Hood/mood)
 
 ## Contributing
 
